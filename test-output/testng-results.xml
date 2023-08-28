@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-27T22:30:39 IST" name="Default suite" finished-at="2023-08-27T22:31:12 IST" duration-ms="33212">
+    <groups>
+    </groups>
+    <test started-at="2023-08-27T22:30:39 IST" name="Default test" finished-at="2023-08-27T22:31:12 IST" duration-ms="33212">
+      <class name="com.iapp.Tests.LeaveApplicationPageTest">
+        <test-method signature="VerifyUserIsNavigateToLeaveApllicationForm()[pri:0, instance:com.iapp.Tests.LeaveApplicationPageTest@54bff557]" started-at="2023-08-27T22:30:39 IST" name="VerifyUserIsNavigateToLeaveApllicationForm" finished-at="2023-08-27T22:30:58 IST" duration-ms="18809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserIsNavigateToLeaveApllicationForm -->
+        <test-method signature="VerifyUserIsAbleToSelectLocation()[pri:1, instance:com.iapp.Tests.LeaveApplicationPageTest@54bff557]" started-at="2023-08-27T22:30:58 IST" name="VerifyUserIsAbleToSelectLocation" finished-at="2023-08-27T22:31:01 IST" duration-ms="3241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserIsAbleToSelectLocation -->
+        <test-method signature="VerifyUserIsAbleToSelectEmployeeName()[pri:2, instance:com.iapp.Tests.LeaveApplicationPageTest@54bff557]" started-at="2023-08-27T22:31:01 IST" name="VerifyUserIsAbleToSelectEmployeeName" finished-at="2023-08-27T22:31:06 IST" duration-ms="4649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserIsAbleToSelectEmployeeName -->
+        <test-method signature="VerifyUserIsAbleToSelectLookup()[pri:3, instance:com.iapp.Tests.LeaveApplicationPageTest@54bff557]" started-at="2023-08-27T22:31:06 IST" name="VerifyUserIsAbleToSelectLookup" finished-at="2023-08-27T22:31:08 IST" duration-ms="2690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserIsAbleToSelectLookup -->
+        <test-method signature="VerifyUserIsAbleToSelect()[pri:4, instance:com.iapp.Tests.LeaveApplicationPageTest@54bff557]" started-at="2023-08-27T22:31:08 IST" name="VerifyUserIsAbleToSelect" finished-at="2023-08-27T22:31:12 IST" duration-ms="3459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserIsAbleToSelect -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:com.iapp.Tests.LeaveApplicationPageTest@54bff557]" started-at="2023-08-27T22:31:12 IST" name="BrowserClose" finished-at="2023-08-27T22:31:12 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- com.iapp.Tests.LeaveApplicationPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
